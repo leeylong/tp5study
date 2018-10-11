@@ -8,7 +8,8 @@ class index
     {
         // dump(config());
         // $res = Config::get();
-        $res = config();
-        dump($res);
+        // $res = config();
+        // dump($res);
+        return 'this is admin index index';
     }
 }
